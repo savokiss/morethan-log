@@ -4,7 +4,7 @@
 
 Next.js static blog using Notion as a Content Management System (CMS). Supports both Blog format Post as well as Page format for Resume. Deployed using Vercel.
 
-[Demo Blog](https://morethan-log.vercel.app) | [Demo Resume](https://morethan-log.vercel.app/resume)
+[Demo Blog](https://blog.detools.dev) | [Demo Resume](https://blog.detools.dev/resume)
 
 ## Features
 
