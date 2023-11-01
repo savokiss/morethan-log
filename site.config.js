@@ -15,6 +15,10 @@ const CONFIG = {
       name: `Omnivore2RSS`,
       href: "https://github.com/savokiss/omnivore2rss",
     },
+    {
+      name: `SocialCardGenerator`,
+      href: "https://social.detools.dev/",
+    },
   ],
   // blog setting (required)
   blog: {
