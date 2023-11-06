@@ -19,6 +19,10 @@ const CONFIG = {
       name: `SocialCardGenerator`,
       href: "https://social.detools.dev/",
     },
+    {
+      name: `HackerTools`,
+      href: "https://hackertools.one/",
+    },
   ],
   // blog setting (required)
   blog: {
