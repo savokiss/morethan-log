@@ -12,16 +12,24 @@ const CONFIG = {
   },
   projects: [
     {
+      name: `DokeyAI`,
+      href: "https://dokeyai.com?utm_source=detools.dev&utm_medium=referral",
+    },
+    {
+      name: `MyGPTs`,
+      href: "https://mygpts.dev?utm_source=detools.dev&utm_medium=referral",
+    },
+    {
       name: `Omnivore2RSS`,
       href: "https://github.com/savokiss/omnivore2rss",
     },
     {
-      name: `SocialCardGenerator`,
-      href: "https://social.detools.dev/",
-    },
-    {
       name: `HackerTools`,
       href: "https://hackertools.one/",
+    },
+    {
+      name: `SocialCardGenerator`,
+      href: "https://social.detools.dev/",
     },
   ],
   // blog setting (required)
